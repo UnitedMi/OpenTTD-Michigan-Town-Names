@@ -1,0 +1,7 @@
+##grflangid 0x01
+# This is the English language file
+
+# GRF name and description definitions
+STR_GRF_NAME        :Michigan Town Names
+STR_GRF_DESCRIPTION :Replaces default town names with Michigan town names.{}Made by UnitedMi
+STR_STYLES          :Michigan
